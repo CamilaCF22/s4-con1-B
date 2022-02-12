@@ -1,3 +1,3 @@
 from problem_02 import accum
 
-print accum("A","B")
+print(accum(["A","B"]))
